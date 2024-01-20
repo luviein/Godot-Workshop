@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dfjyfwi7i200p"]
+
+[node name="PlayerFrog" type="CharacterBody2D"]
